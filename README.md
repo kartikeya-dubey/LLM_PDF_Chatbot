@@ -8,4 +8,5 @@ This app accepts multi-page pdf documents > divides pdf pages to chunks (langcha
 
 Used Langsmith to trace llm calls and analyse code fails.
 
-For codes, feel free to request collaboration.
+> [!NOTE]
+> For codes, you may request collaboration on kartikeyadubey1997@outlook.com.
