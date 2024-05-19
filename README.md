@@ -1,2 +1,11 @@
 # LLM_PDF_Chatbot
-python project to chat with multiple input PDF document, using Streamlit : GUI design and Cohere as LLM. Integrated memory and chat history for more human experience. this app accepts a multi-page pdf document > breaks it down to chunks > embeds and creates a vectorstore which serves as knowledge context for the LLM.
+
+Python project to chat with multiple input PDF documents, using Streamlit : GUI and Cohere : LLM.
+
+Integrated memory (ConversationBufferMemory) and chat history for more human experience.
+
+This app accepts multi-page pdf documents > divides pdf pages to chunks (langchain.text_splitter ) > embeds (langchain_community.embeddings.cohere) and creates a vectorstore (FAISS) which serves as knowledge context for the LLM.
+
+Used Langsmith to trace llm calls and analyse code fails.
+
+For codes, feel free to request collaboration.
