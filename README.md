@@ -1,6 +1,8 @@
 # LLM_PDF_Chatbot
 
-Python project to chat with multiple input PDF documents, using Streamlit : GUI and Cohere : LLM.
+Implementation Video: https://go.screenpal.com/u/ALU6/PDF-chatbot
+
+Python project to chat with multiple input PDF documents, using Streamlit : GUI and Cohere : LLM
 
 Integrated memory (ConversationBufferMemory) and chat history for more human experience.
 
